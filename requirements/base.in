@@ -1,0 +1,6 @@
+django
+pillow
+stripe
+celery
+xlsxwriter
+WeasyPrint

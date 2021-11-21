@@ -1,0 +1,15 @@
+{% if messages %}
+  {% for message in messages %}
+    {% if message.tags == 'error' %}
+      <div class="shadow-custom messages alert alert-danger col-lg-4 mx-auto text-center">
+        {{ message }}
+        <a href="" class="closw">x</a>
+      </div>
+    {% else %}
+      <div class="shadow-custom messages alert alert-{{ message.tags }} col-lg-4 mx-auto text-center">
+        {{ message }}
+        <a href="" class="closw">x</a>
+      </div>
+    {% endif %}
+  {% endfor %}
+{% endif %}
