@@ -2,8 +2,6 @@
 ---
 Сайт доступен по ссылке https://finesauces.hopto.org/
 
-Для приема и обработки электронных платежей воспользовался услугами [Stripe](https://stripe.com/).
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
