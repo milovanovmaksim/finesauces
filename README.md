@@ -1,7 +1,7 @@
 # E-commerce вебсайт на Django(Python)
 ---
-Интернет магазин на Django(Python). Для оплаты товаров использовал плятежную системы <a href="https://stripe.com" target="_blank" rel="noreferrer">Stripe</a>
-Продвинутая работка с админкой. В админку добавлен функционал для формирования различных отчетов в формате pdf.
+Интернет магазин на Django(Python). Для оплаты товаров использовал платежную систему <a href="https://stripe.com" target="_blank" rel="noreferrer">Stripe.</a>
+Продвинутая работка с админкой. На админ панель добавлен функционал для формирования различных отчетов в формате pdf.
 
 
 <h3 align="left">Languages and Tools:</h3>
