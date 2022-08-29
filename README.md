@@ -1,11 +1,12 @@
 # E-commerce вебсайт на Django(Python)
 ---
-Сайт доступен по ссылке https://finesauces.hopto.org/
+Интернет магазин на Django(Python). Для оплаты товаров использовал плятежную системы <a href="https://stripe.com" target="_blank" rel="noreferrer">Stripe</a>
+Продвинутая работка с админкой. В админку добавлен функционал для формирования различных отчетов в формате pdf.
 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
   </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
